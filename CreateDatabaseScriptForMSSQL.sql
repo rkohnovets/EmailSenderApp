@@ -1,8 +1,8 @@
-CREATE DATABASE MailsForMonkDL;
+CREATE DATABASE MailsDb;
 
 GO
 
-use MailsForMonkDL;
+use MailsDb;
 
 CREATE TABLE Mails
 (
